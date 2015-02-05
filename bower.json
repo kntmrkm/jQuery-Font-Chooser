@@ -1,0 +1,29 @@
+{
+  "name": "jquery-font-selector",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kntmrkm/jquery-font-selector",
+  "authors": [
+    "Kenta Murakami <kntmrkm@gmail.com>"
+  ],
+  "description": "jQuery font selector form.",
+  "main": [
+    "jquery-font-selector.js",
+    "jquery-font-selector.css"
+  ],
+  "keywords": [
+    "jquery",
+    "font",
+    "selector",
+    "form"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest"
+  }
+}
